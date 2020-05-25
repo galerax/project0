@@ -11,8 +11,8 @@ body{background-color: black}
 
 }
 
-#logo-container{width: 8%; margin-right: 10px;}
-
+#logo-container{max-width: 8%; margin-right: 10px; min-width: 55px;}
+#logo-main{min-width: auto; min-height: 55px;}
 .destaques{
 
 	background-color: #F1F1F1;
