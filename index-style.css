@@ -1,1 +1,14 @@
-ECHO est  ativado.
+body{background-color: black}
+.nav{
+	background-color: black;
+}
+#btn-menu{
+	border-top:none;
+	border-left: none;
+	border-right: none;
+	font-size:28px;
+	margin-left: 10px;
+
+}
+
+#logo-container{width: 8%; margin-right: 10px;}
