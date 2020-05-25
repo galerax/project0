@@ -12,3 +12,9 @@ body{background-color: black}
 }
 
 #logo-container{width: 8%; margin-right: 10px;}
+
+.destaques{
+
+	background-color: #F1F1F1;
+	opacity: 0.8
+}
